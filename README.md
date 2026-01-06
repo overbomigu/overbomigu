@@ -1,7 +1,7 @@
-# Github-profile-name-writer  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com//ironmaniiith/Github-profile-name-writer/star)
+# theory
 ###Write you name using the github commits and make your profile awesome. :wink: ###
 ###Like This :arrow_heading_down:###
-![Image of Ironman on github Profile](https://github.com/ironmaniiith/Github-profile-name-writer/blob/master/extras/ironmanGithub.jpg)
+![Image of Ironman on github Profile](https://github.com/ironmaniiith/theory/blob/master/extras/ironmanGithub.jpg)
 
 ####If you don't like reading, then just follow this :arrow_down: and enjoy. :sunglasses:
 
@@ -24,9 +24,9 @@ The first quantity is year, second is month and third is date, just add these in
 For help, here are two screenshots
 
 1. **Base date** (Your name will appear above this date's level)
-![Image of Base Date](https://github.com/ironmaniiith/Github-profile-name-writer/blob/master/extras/baseDate.jpg)
+![Image of Base Date](https://github.com/ironmaniiith/theory/blob/master/extras/baseDate.jpg)
 2. **Inspect Element** to find date.
-![Image of Inspect Date](https://github.com/ironmaniiith/Github-profile-name-writer/blob/master/extras/inspectDate.jpg)
+![Image of Inspect Date](https://github.com/ironmaniiith/theory/blob/master/extras/inspectDate.jpg)
 
 
 #### What if I want to change the pattern of some alphabets.####
